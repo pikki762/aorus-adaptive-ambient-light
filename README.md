@@ -18,18 +18,6 @@
 
 ---
 
-## Демонстрация работы
-
-| Оранжевый закат | Неоновый циановый |
-| :---: | :---: |
-| ![Aorus Orange](screenshots/aorus_orange.jpg) | ![Neon Cyan](screenshots/neon_cyan.jpg) |
-
-| Разноцветные зоны | CS2 в игре |
-| :---: | :---: |
-| ![Zones Test](screenshots/zones_test.jpg) | ![In Game CS2](screenshots/in_game_cs2.jpg) |
-
----
-
 ## Использование и запуск
 
 ### Запуск готового приложения
