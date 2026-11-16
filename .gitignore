@@ -1,0 +1,20 @@
+# Binaries & intermediate build files
+*.obj
+*.pdb
+*.log
+crash.log
+
+# Scratch diagnostic files
+scratch/
+фото/
+
+# IDE / Editor folders
+.vs/
+.idea/
+.vscode/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
